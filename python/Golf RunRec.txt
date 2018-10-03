@@ -1,0 +1,200 @@
+Python 3.5.2 (v3.5.2:4def2a2901a5, Jun 25 2016, 22:01:18) [MSC v.1900 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+==== RESTART: D:\Documents\BCTC\Programming\python\GolfProj\GolfScore.py ====
+Any new golfer info to input (y/n): y
+Name of Golfer?: 
+==== RESTART: D:\Documents\BCTC\Programming\python\GolfProj\GolfScore.py ====
+Any new golfer info to input (y/n)(use n to use previously inputted data or read from preexisting " golf.txt":y
+Name of Golfer?: Treye Chaney
+Golfer's score?: 122
+Do you have more golfers to enter? (y/n): y
+Name of Golfer?: Treye Chaneya
+Golfer's score?: 125
+Do you have more golfers to enter? (y/n): y
+Name of Golfer?: Treye Chaneyab
+Golfer's score?: 263
+Do you have more golfers to enter? (y/n): y
+Name of Golfer?: TreyeChaneyc
+Golfer's score?: 230
+Do you have more golfers to enter? (y/n): n
+Year of event: 2016
+Month of event: November
+Start day: 20
+End Day: 23
+	SPRINGFORK AMATEUR GOLD CLUB
+TOURNAMENT: WEEKEND OF  20 - 23 November 2016
+GOLFER NAME				 SCORE
+------------------------------		-------
+Treye Chaney                                122
+Treye Chaneya                               125
+Treye Chaneyab                              263
+TreyeChaneyc                                230
+Winner is Treye Chaney with score 122
+>>> 
+==== RESTART: D:\Documents\BCTC\Programming\python\GolfProj\GolfScore.py ====
+Any new golfer info to input (y/n)(use n to use previously inputted data or read from preexisting " golf.txt":n
+Year of event: 2015
+Month of event: December
+Start day: 12
+End Day: 15
+	SPRINGFORK AMATEUR GOLD CLUB
+TOURNAMENT: WEEKEND OF  12 - 15 December 2015
+GOLFER NAME				 SCORE
+------------------------------		-------
+Treye Chaney                                122
+Treye Chaneya                               125
+Treye Chaneyab                              263
+TreyeChaneyc                                230
+Winner is Treye Chaney with score 122
+>>> 
+==== RESTART: D:\Documents\BCTC\Programming\python\GolfProj\GolfScore.py ====
+Any new golfer info to input (y/n)(use n to use previously inputted data or read from preexisting "golf.txt"):y
+Name of Golfer?: 
+Please enter a Golfer's name: Treye Chaney
+Golfer's score?: 
+Please input score in a proper 3 digit whole number format
+Golfer's score?: t
+Please input score in a proper 3 digit whole number format
+Golfer's score?: 123
+Do you have more golfers to enter? (y/n): y
+Name of Golfer?: 
+Please enter a Golfer's name: Treye Chaneytrdgfdfg
+Golfer's score?: 130
+Do you have more golfers to enter? (y/n): 
+Please input a 'y' or 'n': y
+Name of Golfer?: Treye Chaneyw
+Golfer's score?: 38
+Do you have more golfers to enter? (y/n): n
+Year of event: 2016
+Month of event: September
+Start day: 8
+End Day: 9
+	SPRINGFORK AMATEUR GOLD CLUB
+TOURNAMENT: WEEKEND OF  8 - 9 September 2016
+GOLFER NAME				 SCORE
+------------------------------		-------
+Treye Chaney                                123
+Treye Chaneytrdgfdfg                        130
+Treye Chaneyw                               38
+Winner is Treye Chaneyw with score 38
+>>> 
+==== RESTART: D:\Documents\BCTC\Programming\python\GolfProj\GolfScore.py ====
+Any new golfer info to input (y/n)(use n to use previously inputted data or read from preexisting "golf.txt"):y
+Name of Golfer?: Treye Chaneydg
+Golfer's score?: 23
+Do you have more golfers to enter? (y/n): Treye Chaney
+Please input a 'y' or 'n': y
+Name of Golfer?: Treye Chaney
+Golfer's score?: 26
+Do you have more golfers to enter? (y/n): y
+Name of Golfer?: Treye Chaney 45
+Golfer's score?: 45
+Do you have more golfers to enter? (y/n): n
+Year of event: 2016
+Month of event: November
+Start day: 15
+End Day: 30
+	SPRINGFORK AMATEUR GOLD CLUB
+TOURNAMENT: WEEKEND OF  15 - 30 November 2016
+GOLFER NAME				 SCORE
+------------------------------		-------
+Treye Chaneydg                              23
+Treye Chaney                                26
+Treye Chaney 45                             45
+Winner is Treye Chaneydg with score 23
+>>> 
+==== RESTART: D:\Documents\BCTC\Programming\python\GolfProj\GolfScore.py ====
+Any new golfer info to input (y/n)(use n to use previously inputted data or read from preexisting "golf.txt"):y
+Name of Golfer?: Treye Chaneya
+Golfer's score?: x
+Please input score in a proper 3 digit whole number format
+Golfer's score?: df
+Please input score in a proper 3 digit whole number format
+Golfer's score?: bhjfgd
+Please input score in a proper 3 digit whole number format
+Golfer's score?: 245d
+Please input score in a proper 3 digit whole number format
+Golfer's score?: 245
+Do you have more golfers to enter? (y/n): y
+Name of Golfer?: Treyeab Chaneybc
+Golfer's score?: 653
+Do you have more golfers to enter? (y/n): y
+Name of Golfer?: Trjbdg ddsg
+Golfer's score?: 23
+Do you have more golfers to enter? (y/n): y
+Name of Golfer?: hfgnhgjn
+Golfer's score?: 21
+Do you have more golfers to enter? (y/n): y
+Name of Golfer?: Treye Chaney
+Golfer's score?: 18
+Do you have more golfers to enter? (y/n): y
+Name of Golfer?: Treyecdefg Chaneybghg
+Golfer's score?: 46
+Do you have more golfers to enter? (y/n): n
+Year of event: 2016
+Month of event: November
+Start day: 20
+End Day: 23
+	SPRINGFORK AMATEUR GOLD CLUB
+TOURNAMENT: WEEKEND OF  20 - 23 November 2016
+GOLFER NAME				 SCORE
+------------------------------		-------
+Treye Chaneya                               245
+Treyeab Chaneybc                            653
+Trjbdg ddsg                                  23
+hfgnhgjn                                     21
+Treye Chaney                                 18
+Treyecdefg Chaneybghg                        46
+Winner is Treye Chaney with score 18
+>>> 
+==== RESTART: D:\Documents\BCTC\Programming\python\GolfProj\GolfScore.py ====
+Any new golfer info to input (y/n)(use n to use previously inputted data or read from preexisting "golf.txt"):y
+Name of Golfer?: Treye Chaney
+Golfer's score?: 1666
+Golfer's score?: 1666
+Golfer's score?: 999
+Do you have more golfers to enter? (y/n): n
+Year of event: 2016
+Month of event: November
+Start day: 20
+End Day: 23
+	SPRINGFORK AMATEUR GOLD CLUB
+TOURNAMENT: WEEKEND OF  20 - 23 November 2016
+GOLFER NAME				 SCORE
+------------------------------		-------
+Treye Chaney                                999
+Winner is Treye Chaney with score 999
+>>> 
+==== RESTART: D:\Documents\BCTC\Programming\python\GolfProj\GolfScore.py ====
+Any new golfer info to input (y/n)(use n to use previously inputted data or read from preexisting "golf.txt"):y
+Name of Golfer?: Treye Chaney
+Golfer's score?: 1666
+Please input score in 3-digit whole number format
+Golfer's score?: 13333
+Please input score in 3-digit whole number format
+Golfer's score?: 166
+Do you have more golfers to enter? (y/n): y
+Name of Golfer?: Treye Chaneyab
+Golfer's score?: 612
+Do you have more golfers to enter? (y/n): y
+Name of Golfer?: Trey Chaneybcd
+Golfer's score?: 28
+Do you have more golfers to enter? (y/n): y
+Name of Golfer?: Treye Chaneyabcdefg
+Golfer's score?: 92
+Do you have more golfers to enter? (y/n): n
+Year of event: 2016
+Month of event: November
+Start day: 20
+End Day: 23
+	SPRINGFORK AMATEUR GOLD CLUB
+TOURNAMENT: WEEKEND OF  20 - 23 November 2016
+GOLFER NAME				 SCORE
+------------------------------		-------
+Treye Chaney                                166
+Treye Chaneyab                              612
+Trey Chaneybcd                               28
+Treye Chaneyabcdefg                          92
+Winner is Trey Chaneybcd with score 28
+>>> 

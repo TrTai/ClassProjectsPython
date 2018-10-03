@@ -1,0 +1,68 @@
+Python 3.5.2 (v3.5.2:4def2a2901a5, Jun 25 2016, 22:01:18) [MSC v.1900 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+========= RESTART: D:\Documents\BCTC\Programming\python\StateTax1.py =========
+Cost for purchase? 1588663.36
+Amount of purchase                1,588,663.36
+State tax                            79,433.17
+County tax                           39,716.58
+Total of sale		          1,707,813.11
+>>> 
+========= RESTART: D:\Documents\BCTC\Programming\python\StateTax1.py =========
+Cost for purchase? 25336.91
+Amount of purchase                   25,336.91
+State tax                             1,266.85
+County tax                              633.42
+Total of sale		             27,237.18
+>>> 
+========= RESTART: D:\Documents\BCTC\Programming\python\StateTax1.py =========
+Cost for purchase? abcxyz
+Traceback (most recent call last):
+  File "D:\Documents\BCTC\Programming\python\StateTax1.py", line 6, in <module>
+    purchase = float(input('Cost for purchase? '))
+ValueError: could not convert string to float: 'abcxyz'
+>>> 
+========= RESTART: D:\Documents\BCTC\Programming\python\StateTax1.py =========
+Cost for purchase? 2225869322.31
+Amount of purchase            2,225,869,322.31
+State tax                       111,293,466.12
+County tax                       55,646,733.06
+Total of sale		      2,392,809,521.48
+>>> 
+========= RESTART: D:\Documents\BCTC\Programming\python\StateTax1.py =========
+Cost for purchase? 5146498413398.32
+Amount of purchase        5,146,498,413,398.32
+State tax                   257,324,920,669.92
+County tax                  128,662,460,334.96
+Total of sale		  5,532,485,794,403.19
+>>> 
+========= RESTART: D:\Documents\BCTC\Programming\python\StateTax1.py =========
+Cost for purchase? 65156465163121651651.23
+Amount of purchase 65,156,465,163,121,647,616.00
+State tax         3,257,823,258,156,082,688.00
+County tax        1,628,911,629,078,041,344.00
+Total of sale		 70,043,200,050,355,773,440.00
+>>> 250000000000000.00
+250000000000000.0
+>>> 
+========= RESTART: D:\Documents\BCTC\Programming\python\StateTax1.py =========
+Cost for purchase? 250000000000000.0
+Amount of purchase      250,000,000,000,000.00
+State tax                12,500,000,000,000.00
+County tax                6,250,000,000,000.00
+Total of sale		 268,750,000,000,000.00
+>>> 
+========= RESTART: D:\Documents\BCTC\Programming\python\StateTax1.py =========
+Cost for purchase? 25000000000000.00
+Amount of purchase       25,000,000,000,000.00
+State tax                 1,250,000,000,000.00
+County tax                  625,000,000,000.00
+Total of sale		 26,875,000,000,000.00
+>>> 
+========= RESTART: D:\Documents\BCTC\Programming\python\StateTax1.py =========
+Cost for purchase? 99999999999999.99
+Amount of purchase       99,999,999,999,999.98
+State tax                 5,000,000,000,000.00
+County tax                2,500,000,000,000.00
+Total of sale		 107,499,999,999,999.98
+>>> 

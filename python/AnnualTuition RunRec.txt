@@ -1,0 +1,285 @@
+Python 3.5.2 (v3.5.2:4def2a2901a5, Jun 25 2016, 22:01:18) [MSC v.1900 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+===== RESTART: D:\Documents\BCTC\Programming\python\Tuition project2.py =====
+Type of Residency? Input "I" for in-state, "O" for Out-of-state, or "G" for Graduate: I
+UNDERGRADUATE TUITION FOR THE NEXT FIVE YEARS
+ACADEMIC YEAR		      TUITION 	 INCREASE
+-------------		 ------------ 	 --------
+2016-17			     10300.00	   300.00
+2017-18			     10609.00	   309.00
+2018-19			     10927.27	   318.27
+2019-20			     11255.09	   327.82
+2020-21			     11592.74	   337.65
+TOTAL TUITION INCREASE		          1592.74
+Would you like to check another tuition? Yes or No: No
+Thank you and goodbye!
+>>> 
+===== RESTART: D:\Documents\BCTC\Programming\python\Tuition project2.py =====
+Type of Residency? Input "I" for in-state, "O" for Out-of-state, or "G" for Graduate: i
+UNDERGRADUATE TUITION FOR THE NEXT FIVE YEARS
+ACADEMIC YEAR		      TUITION 	 INCREASE
+-------------		 ------------ 	 --------
+2016-17			     10300.00	   300.00
+2017-18			     10609.00	   309.00
+2018-19			     10927.27	   318.27
+2019-20			     11255.09	   327.82
+2020-21			     11592.74	   337.65
+TOTAL TUITION INCREASE		          1592.74
+Would you like to check another tuition? Yes or No: No
+Thank you and goodbye!
+>>> 
+===== RESTART: D:\Documents\BCTC\Programming\python\Tuition project2.py =====
+Type of Residency? Input "I" for in-state, "O" for Out-of-state, or "G" for Graduate: O
+UNDERGRADUATE TUITION FOR THE NEXT FIVE YEARS
+ACADEMIC YEAR		      TUITION 	 INCREASE
+-------------		 ------------ 	 --------
+2016-17			     24720.00	   720.00
+2017-18			     25461.60	   741.60
+2018-19			     26225.45	   763.85
+2019-20			     27012.21	   786.76
+2020-21			     27822.58	   810.37
+TOTAL TUITION INCREASE		          3822.58
+Would you like to check another tuition? Yes or No: No
+Thank you and goodbye!
+>>> 
+===== RESTART: D:\Documents\BCTC\Programming\python\Tuition project2.py =====
+Type of Residency? Input "I" for in-state, "O" for Out-of-state, or "G" for Graduate: o
+UNDERGRADUATE TUITION FOR THE NEXT FIVE YEARS
+ACADEMIC YEAR		      TUITION 	 INCREASE
+-------------		 ------------ 	 --------
+2016-17			     24720.00	   720.00
+2017-18			     25461.60	   741.60
+2018-19			     26225.45	   763.85
+2019-20			     27012.21	   786.76
+2020-21			     27822.58	   810.37
+TOTAL TUITION INCREASE		          3822.58
+Would you like to check another tuition? Yes or No: No
+Thank you and goodbye!
+>>> 
+===== RESTART: D:\Documents\BCTC\Programming\python\Tuition project2.py =====
+>>> 
+Type of Residency? Input "I" for in-state, "O" for Out-of-state, or "G" for Graduate: G
+GRADUATE TUITION FOR THE NEXT FIVE YEARS
+ACADEMIC YEAR		      TUITION 	 INCREASE
+-------------		 ------------ 	 --------
+2016-17			     41200.00	   1200.00
+2017-18			     42436.00	   1236.00
+2018-19			     43709.08	   1273.08
+2019-20			     45020.35	   1311.27
+2020-21			     46370.96	   1350.61
+TOTAL TUITION INCREASE		           6370.96
+Would you like to check another tuition? Yes or No: No
+Thank you and goodbye!
+>>> 
+===== RESTART: D:\Documents\BCTC\Programming\python\Tuition project2.py =====
+Type of Residency? Input "I" for in-state, "O" for Out-of-state, or "G" for Graduate: g
+GRADUATE TUITION FOR THE NEXT FIVE YEARS
+ACADEMIC YEAR		      TUITION 	 INCREASE
+-------------		 ------------ 	 --------
+2016-17			     41200.00	   1200.00
+2017-18			     42436.00	   1236.00
+2018-19			     43709.08	   1273.08
+2019-20			     45020.35	   1311.27
+2020-21			     46370.96	   1350.61
+TOTAL TUITION INCREASE		           6370.96
+Would you like to check another tuition? Yes or No: No
+Thank you and goodbye!
+>>> 
+===== RESTART: D:\Documents\BCTC\Programming\python\Tuition project2.py =====
+Type of Residency? Input "I" for in-state, "O" for Out-of-state, or "G" for Graduate: l
+Please input a provided answer. "I" for in-state, "O" for out-of-state, or "G" for Graduate: k
+Please input a provided answer. "I" for in-state, "O" for out-of-state, or "G" for Graduate: i
+UNDERGRADUATE TUITION FOR THE NEXT FIVE YEARS
+ACADEMIC YEAR		      TUITION 	 INCREASE
+-------------		 ------------ 	 --------
+2016-17			     10300.00	   300.00
+2017-18			     10609.00	   309.00
+2018-19			     10927.27	   318.27
+2019-20			     11255.09	   327.82
+2020-21			     11592.74	   337.65
+TOTAL TUITION INCREASE		          1592.74
+Would you like to check another tuition? Yes or No: Yes
+Type of Residency? Input "I" for in-state, "O" for Out-of-state, or "G" for Graduate: k
+Please input a provided answer. "I" for in-state, "O" for out-of-state, or "G" for Graduate: o
+UNDERGRADUATE TUITION FOR THE NEXT FIVE YEARS
+ACADEMIC YEAR		      TUITION 	 INCREASE
+-------------		 ------------ 	 --------
+2016-17			     24720.00	   720.00
+2017-18			     25461.60	   741.60
+2018-19			     26225.45	   763.85
+2019-20			     27012.21	   786.76
+2020-21			     27822.58	   810.37
+TOTAL TUITION INCREASE		          3822.58
+Would you like to check another tuition? Yes or No: yer
+Please enter 'yes' or 'no'. Would you like to check another tuition?no
+Thank you and goodbye!
+>>> 
+===== RESTART: D:\Documents\BCTC\Programming\python\Tuition project2.py =====
+Type of Residency? Input "I" for in-state, "O" for Out-of-state, or "G" for Graduate: 1
+Please input a provided answer. "I" for in-state, "O" for out-of-state, or "G" for Graduate: 2
+Please input a provided answer. "I" for in-state, "O" for out-of-state, or "G" for Graduate: 3
+Please input a provided answer. "I" for in-state, "O" for out-of-state, or "G" for Graduate: 
+Please input a provided answer. "I" for in-state, "O" for out-of-state, or "G" for Graduate: 4
+Please input a provided answer. "I" for in-state, "O" for out-of-state, or "G" for Graduate: 6
+Please input a provided answer. "I" for in-state, "O" for out-of-state, or "G" for Graduate: 9
+Please input a provided answer. "I" for in-state, "O" for out-of-state, or "G" for Graduate: jhfdg
+Please input a provided answer. "I" for in-state, "O" for out-of-state, or "G" for Graduate: k
+Please input a provided answer. "I" for in-state, "O" for out-of-state, or "G" for Graduate: i
+UNDERGRADUATE TUITION FOR THE NEXT FIVE YEARS
+ACADEMIC YEAR		      TUITION 	 INCREASE
+-------------		 ------------ 	 --------
+2016-17			     10300.00	   300.00
+2017-18			     10609.00	   309.00
+2018-19			     10927.27	   318.27
+2019-20			     11255.09	   327.82
+2020-21			     11592.74	   337.65
+TOTAL TUITION INCREASE		          1592.74
+Would you like to check another tuition? Yes or No: nope
+Please enter 'yes' or 'no'. Would you like to check another tuition?hfgd
+Please enter 'yes' or 'no'. Would you like to check another tuition?53453
+Please enter 'yes' or 'no'. Would you like to check another tuition?
+===== RESTART: D:\Documents\BCTC\Programming\python\Tuition project2.py =====
+Type of Residency? Input "I" for in-state, "O" for Out-of-state, or "G" for Graduate: i
+UNDERGRADUATE TUITION FOR THE NEXT FIVE YEARS
+ACADEMIC YEAR		      TUITION 	 INCREASE
+-------------		 ------------ 	 --------
+2016-17			     10300.00	   300.00
+2017-18			     10609.00	   309.00
+2018-19			     10927.27	   318.27
+2019-20			     11255.09	   327.82
+2020-21			     11592.74	   337.65
+TOTAL TUITION INCREASE		          1592.74
+Would you like to check another tuition? Yes or No: y
+Type of Residency? Input "I" for in-state, "O" for Out-of-state, or "G" for Graduate: o
+UNDERGRADUATE TUITION FOR THE NEXT FIVE YEARS
+ACADEMIC YEAR		      TUITION 	 INCREASE
+-------------		 ------------ 	 --------
+2016-17			     24720.00	   720.00
+2017-18			     25461.60	   741.60
+2018-19			     26225.45	   763.85
+2019-20			     27012.21	   786.76
+2020-21			     27822.58	   810.37
+TOTAL TUITION INCREASE		          3822.58
+Would you like to check another tuition? Yes or No: Yes
+Type of Residency? Input "I" for in-state, "O" for Out-of-state, or "G" for Graduate: p
+Please input a provided answer. "I" for in-state, "O" for out-of-state, or "G" for Graduate: l
+Please input a provided answer. "I" for in-state, "O" for out-of-state, or "G" for Graduate: o
+UNDERGRADUATE TUITION FOR THE NEXT FIVE YEARS
+ACADEMIC YEAR		      TUITION 	 INCREASE
+-------------		 ------------ 	 --------
+2016-17			     24720.00	   720.00
+2017-18			     25461.60	   741.60
+2018-19			     26225.45	   763.85
+2019-20			     27012.21	   786.76
+2020-21			     27822.58	   810.37
+TOTAL TUITION INCREASE		          3822.58
+Would you like to check another tuition? Yes or No: print(antuition)
+Please enter 'yes' or 'no'. Would you like to check another tuition?no
+Thank you and goodbye!
+>>> 
+===== RESTART: D:\Documents\BCTC\Programming\python\Tuition project2.py =====
+Type of Residency? Input "I" for in-state, "O" for Out-of-state, or "G" for Graduate: i
+UNDERGRADUATE TUITION FOR THE NEXT FIVE YEARS
+ACADEMIC YEAR		      TUITION 	 INCREASE
+-------------		 ------------ 	 --------
+2016-17			     10300.00	   300.00
+2017-18			     10609.00	   309.00
+2018-19			     10927.27	   318.27
+2019-20			     11255.09	   327.82
+2020-21			     11592.74	   337.65
+TOTAL TUITION INCREASE		          1592.74
+Would you like to check another tuition? Yes or No: YEs
+Type of Residency? Input "I" for in-state, "O" for Out-of-state, or "G" for Graduate: k
+Please input a provided answer. "I" for in-state, "O" for out-of-state, or "G" for Graduate: p
+Please input a provided answer. "I" for in-state, "O" for out-of-state, or "G" for Graduate: i
+UNDERGRADUATE TUITION FOR THE NEXT FIVE YEARS
+ACADEMIC YEAR		      TUITION 	 INCREASE
+-------------		 ------------ 	 --------
+2016-17			     10300.00	   300.00
+2017-18			     10609.00	   309.00
+2018-19			     10927.27	   318.27
+2019-20			     11255.09	   327.82
+2020-21			     11592.74	   337.65
+TOTAL TUITION INCREASE		          1592.74
+Would you like to check another tuition? Yes or No: yes
+Type of Residency? Input "I" for in-state, "O" for Out-of-state, or "G" for Graduate: O
+UNDERGRADUATE TUITION FOR THE NEXT FIVE YEARS
+ACADEMIC YEAR		      TUITION 	 INCREASE
+-------------		 ------------ 	 --------
+2016-17			     24720.00	   720.00
+2017-18			     25461.60	   741.60
+2018-19			     26225.45	   763.85
+2019-20			     27012.21	   786.76
+2020-21			     27822.58	   810.37
+TOTAL TUITION INCREASE		          3822.58
+Would you like to check another tuition? Yes or No: yes
+Type of Residency? Input "I" for in-state, "O" for Out-of-state, or "G" for Graduate: G
+GRADUATE TUITION FOR THE NEXT FIVE YEARS
+ACADEMIC YEAR		      TUITION 	 INCREASE
+-------------		 ------------ 	 --------
+2016-17			     41200.00	   1200.00
+2017-18			     42436.00	   1236.00
+2018-19			     43709.08	   1273.08
+2019-20			     45020.35	   1311.27
+2020-21			     46370.96	   1350.61
+TOTAL TUITION INCREASE		           6370.96
+Would you like to check another tuition? Yes or No: no
+Thank you and goodbye!
+>>> 
+===== RESTART: D:\Documents\BCTC\Programming\python\Tuition project2.py =====
+Type of Residency? Input "I" for in-state, "O" for Out-of-state, or "G" for Graduate: fdsjhkfgf
+Please input a provided answer. "I" for in-state, "O" for out-of-state, or "G" for Graduate: o
+UNDERGRADUATE TUITION FOR THE NEXT FIVE YEARS
+ACADEMIC YEAR		      TUITION 	 INCREASE
+-------------		 ------------ 	 --------
+2016-17			     24720.00	   720.00
+2017-18			     25461.60	   741.60
+2018-19			     26225.45	   763.85
+2019-20			     27012.21	   786.76
+2020-21			     27822.58	   810.37
+TOTAL TUITION INCREASE		          3822.58
+Would you like to check another tuition? Yes or No: gfd
+Please enter 'yes' or 'no'. Would you like to check another tuition?njbfd
+Please enter 'yes' or 'no'. Would you like to check another tuition?p
+Please enter 'yes' or 'no'. Would you like to check another tuition?n
+Thank you and goodbye!
+>>> 
+===== RESTART: D:\Documents\BCTC\Programming\python\Tuition project2.py =====
+Type of Residency? Input "I" for in-state, "O" for Out-of-state, or "G" for Graduate: ghfdg
+Please input a provided answer. "I" for in-state, "O" for out-of-state, or "G" for Graduate: no
+Please input a provided answer. "I" for in-state, "O" for out-of-state, or "G" for Graduate: sa
+Please input a provided answer. "I" for in-state, "O" for out-of-state, or "G" for Graduate: i
+UNDERGRADUATE TUITION FOR THE NEXT FIVE YEARS
+ACADEMIC YEAR		      TUITION 	 INCREASE
+-------------		 ------------ 	 --------
+2016-17			     10300.00	   300.00
+2017-18			     10609.00	   309.00
+2018-19			     10927.27	   318.27
+2019-20			     11255.09	   327.82
+2020-21			     11592.74	   337.65
+TOTAL TUITION INCREASE		          1592.74
+Would you like to check another tuition? Yes or No: gh
+Please enter 'yes' or 'no'. Would you like to check another tuition?yes
+Type of Residency? Input "I" for in-state, "O" for Out-of-state, or "G" for Graduate: i
+UNDERGRADUATE TUITION FOR THE NEXT FIVE YEARS
+ACADEMIC YEAR		      TUITION 	 INCREASE
+-------------		 ------------ 	 --------
+2016-17			     10300.00	   300.00
+2017-18			     10609.00	   309.00
+2018-19			     10927.27	   318.27
+2019-20			     11255.09	   327.82
+2020-21			     11592.74	   337.65
+TOTAL TUITION INCREASE		          1592.74
+Would you like to check another tuition? Yes or No: yes
+Type of Residency? Input "I" for in-state, "O" for Out-of-state, or "G" for Graduate: g
+GRADUATE TUITION FOR THE NEXT FIVE YEARS
+ACADEMIC YEAR		      TUITION 	 INCREASE
+-------------		 ------------ 	 --------
+2016-17			     41200.00	   1200.00
+2017-18			     42436.00	   1236.00
+2018-19			     43709.08	   1273.08
+2019-20			     45020.35	   1311.27
+2020-21			     46370.96	   1350.61
+TOTAL TUITION INCREASE		           6370.96
+Would you like to check another tuition? Yes or No: 
